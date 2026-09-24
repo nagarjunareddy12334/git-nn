@@ -1,1 +1,8 @@
 Login feature
+Login Page
+
+Username: testuser
+Email: testuser@example.com
+Password: Test@123
+
+Login Status: Successful
