@@ -1,0 +1,9 @@
+User Registration Details
+
+Name: Nagarjuna
+Username: nagarjuna123
+Email: nagarjuna@example.com
+Password: Test@123
+
+Account Status: Active
+Registration Date: 23-09-2026
